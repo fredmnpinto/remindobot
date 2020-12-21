@@ -1,0 +1,26 @@
+﻿@page
+@model SecondTry.Pages.Index
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>Index</title>
+    <h1>@Model.Message</h1>
+</head>
+<body>
+<form method="post" id="InputForm">
+    <span>Username</span>
+    <input name="username" type="text"/>
+    <br/>
+    <span>Password</span>
+    <input name="password" type="password"/>
+    <br/>
+    <input name="login" type="submit" aria-valuetext="Login">
+</form>
+</body>
+</html>
