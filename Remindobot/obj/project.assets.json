@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\C#\\SecondTry\\SecondTry\\SecondTry.csproj",
-      "projectName": "SecondTry",
-      "projectPath": "D:\\Projects\\C#\\SecondTry\\SecondTry\\SecondTry.csproj",
+      "projectUniqueName": "D:\\Projects\\C#\\SecondTry\\Remindobot\\Remindobot.csproj",
+      "projectName": "Remindobot",
+      "projectPath": "D:\\Projects\\C#\\SecondTry\\Remindobot\\Remindobot.csproj",
       "packagesPath": "C:\\Users\\Frederico\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\C#\\SecondTry\\SecondTry\\obj\\",
+      "outputPath": "D:\\Projects\\C#\\SecondTry\\Remindobot\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Frederico\\AppData\\Roaming\\NuGet\\NuGet.Config"

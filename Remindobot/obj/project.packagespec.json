@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "D:\\Projects\\C#\\SecondTry\\SecondTry\\SecondTry.csproj",
-    "projectName": "SecondTry",
-    "projectPath": "D:\\Projects\\C#\\SecondTry\\SecondTry\\SecondTry.csproj",
-    "outputPath": "D:\\Projects\\C#\\SecondTry\\SecondTry\\obj\\",
+    "projectUniqueName": "D:\\Projects\\C#\\SecondTry\\Remindobot\\Remindobot.csproj",
+    "projectName": "Remindobot",
+    "projectPath": "D:\\Projects\\C#\\SecondTry\\Remindobot\\Remindobot.csproj",
+    "outputPath": "D:\\Projects\\C#\\SecondTry\\Remindobot\\obj\\",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
       "net50"

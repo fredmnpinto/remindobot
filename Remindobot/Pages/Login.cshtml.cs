@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
-namespace SecondTry.Pages
+namespace Remindobot.Pages
 {
     public class Login : PageModel
     {

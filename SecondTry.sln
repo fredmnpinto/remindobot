@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecondTry", "SecondTry\SecondTry.csproj", "{00109B55-F8DB-41CA-9403-C6F295D45013}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remindobot", "Remindobot\Remindobot.csproj", "{00109B55-F8DB-41CA-9403-C6F295D45013}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
